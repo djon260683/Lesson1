@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tS">40sp</dimen>
+    <dimen name="bS">30sp</dimen>
+    <dimen name="sS">50sp</dimen>
+    <dimen name="tgS">60sp</dimen>
+    <dimen name="cS">55sp</dimen>
+</resources>
